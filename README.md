@@ -8,8 +8,11 @@
 
 ##### OSMNX实现嘉定网络图：
 
-<img src="C:\Users\Kellen_Gram\AppData\Roaming\Typora\typora-user-images\image-20230601005626620.png" alt="image-20230601005626620" style="zoom: 33%;" />
+<img src=".\examples\嘉定.png" style="zoom: 33%;" />
 
 ##### 敏感性分析参考：
 
-<img src="C:\Users\Kellen_Gram\AppData\Roaming\Typora\typora-user-images\image-20230601005753316.png" alt="image-20230601005753316" style="zoom:50%;" />
+<img src=".\examples\敏感性.png"/>
+
+
+
